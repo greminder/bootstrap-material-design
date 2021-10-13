@@ -17,6 +17,7 @@ vendor/cache
 vendor/bundle
 
 # Numerous always-ignore extensions
+*.tgz
 *.diff
 *.err
 *.log
