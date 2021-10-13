@@ -1,7 +1,7 @@
 {
   "name": "bootstrap-material-design",
   "description": "Material Design for Bootstrap 4",
-  "version": "4.1.4",
+  "version": "4.1.5",
   "keywords": [
     "material",
     "design",
@@ -15,7 +15,7 @@
     "framework",
     "web"
   ],
-  "homepage": "https://github.com/FezVrasta/bootstrap-material-design",
+  "homepage": "https://github.com/greminder/bootstrap-material-design",
   "author": "Federico Zivolo",
   "scripts": {
     "docs:compile": "bundle exec jekyll build",
@@ -38,10 +38,7 @@
   "main": "dist/js/bootstrap-material-design.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/FezVrasta/bootstrap-material-design.git"
-  },
-  "bugs": {
-    "url": "https://github.com/FezVrasta/bootstrap-material-design/issues"
+    "url": "git@github.com:greminder/bootstrap-material-design.git"
   },
   "license": "MIT",
   "devDependencies": {
