@@ -29,6 +29,7 @@ form {
   transition: background 0s ease-out;
   padding-left: 0;
   padding-right: 0;
+  height: 2em;
 
   // The border bottom should be static in all states, the decorator will be animated over this.
   &:focus,

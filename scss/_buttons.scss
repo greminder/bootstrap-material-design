@@ -16,6 +16,7 @@
     background-color 0.2s $bmd-animation-curve-default,
     color 0.2s $bmd-animation-curve-default;
   will-change: box-shadow, transform;
+  white-space: nowrap;
 
   //--
   // Colors
